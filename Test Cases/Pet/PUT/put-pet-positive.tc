@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>put-pet-positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96dc9ebd-6fc7-4bdc-9980-1143268fec24</testCaseGuid>
+</TestCaseEntity>
